@@ -9,7 +9,7 @@ This project sets up a machine learning deployment using Kubeflow and KServe on 
 - Automate ML workflows with Kubeflow Pipelines.  
 - Store and version models in AWS S3.  
 - Serve models with KServe for inference.  
-- Keep the process scalable and repeatable.
+- Keep the process repeatable.
 
 ## Setup Instructions  
 1. **AWS Setup**:  
